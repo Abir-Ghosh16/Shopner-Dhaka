@@ -107,9 +107,9 @@ public class SignUpEmail extends JFrame implements ActionListener{
       //String to = emailField.getText();
 	  String to = email;
       // Sender's email ID needs to be mentioned
-      String from = "sukumar1971211@gmail.com";
-      final String username = "sukumar1971211@gmail.com";
-      final String password = "kfdriaoffbewiamc";
+      String from = "Your Gmail";
+      final String username = "Your username";
+      final String password = "Your App Password for accessing Google SMTP";
 
       // Assuming you are sending email through relay.jangosmtp.net
       String host = "smtp.gmail.com";
