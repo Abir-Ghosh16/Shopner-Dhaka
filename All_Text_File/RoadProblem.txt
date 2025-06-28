@@ -1,0 +1,5 @@
+abir20021611@gmail.com        Bangshal        Najira Bazar        Road Surface        This Road is damage from long time.        2025/03/23 20:51:22        C:\Users\Admin\Downloads\road_damage.jpg
+abir20021611@gmail.com        Banani        Link road        Road Surface        This road is in dangerous condition.        2025/03/23 21:03:19        C:\Users\Admin\Downloads\road_damage.png
+abir20021611@gmail.com        Paltan        Motijil        Manhole        This road can cause accident at any time.        2025/03/23 21:06:52        C:\Users\Admin\Downloads\437b48ec-57d8-449c-95a3-451a0bfc6a9a.jpg
+abir20021611@gmail.com        Nawabganj        Kaji para        Footpath        Very poor condition.        2025/03/23 21:08:27        C:\Users\Admin\Downloads\78049ed3-2cae-4f4c-80da-4ead08902c41.jpg
+abir20021116@gmail.com        Kotwali        Amin Bazar        Manhole        The Condition of road is very poor.        2025/03/24 18:27:00        C:\Users\Admin\Downloads\1f2d30d3-ef19-4d29-a636-cb50df294ae4.jpg
