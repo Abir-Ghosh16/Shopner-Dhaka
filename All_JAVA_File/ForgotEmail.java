@@ -101,13 +101,11 @@ public class ForgotEmail extends JFrame implements ActionListener{
 			{ 
 			
 			
-      // Recipient's email ID needs to be mentioned.
-      //String to = "abir20021116@gmail.com";
+      
       String to = emailField.getText();
-      // Sender's email ID needs to be mentioned
-      String from = "sukumar1971211@gmail.com";
-      final String username = "sukumar1971211@gmail.com";
-      final String password = "kfdriaoffbewiamc";
+      String from = "Your Gmail";
+      final String username = "Your username";
+      final String password = "Your App Password for accessing Google SMTP";
 
       // Assuming you are sending email through relay.jangosmtp.net
       String host = "smtp.gmail.com";
